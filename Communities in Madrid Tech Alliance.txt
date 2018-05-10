@@ -1,8 +1,0 @@
-* Name of the community and short description
-* Short text about: Why do you want to join us?
-* Main Organizer Name and contact (for joining our Slack)
-* Link to the logo of your community
-* Link to the social networks of your community: website, github, meetup, twitter...
-
-
-	•	
