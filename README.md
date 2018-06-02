@@ -1,4 +1,4 @@
-# How to join Madrid Tech Alliance
+# How to join Madrid Tech Alliance: https://github.com/MadridTechAlliance/JoinUs/edit/master/template_to_join.md
 
 
 ## We are looking for Tech Communities in Madrid that love what they are doing,  love sharing tech and being kinds with others above all!
@@ -8,9 +8,9 @@
 **Our mission**: To create a new Tech Alliance and  Tech Community for sharing resources between collaborative and open-minded people in tech
 
 
-## Pull Request
+## Pull Request: https://github.com/MadridTechAlliance/JoinUs/edit/master/template_to_join.md
 
-If you are in accordance with our mission, you are actively organizing meetups in Madrid (i.e once a month) and you would like to join us, please do a Pull Request to this repo  adding your the info of your community in the file for it:
+If you are in accordance with our mission, you are actively organizing meetups in Madrid (i.e once a month) and you would like to join us, please do a Pull Request to this repo  editing your info here https://github.com/MadridTechAlliance/JoinUs/edit/master/template_to_join.md:
 
 * Name of the community and short description
 * Short text about: Why do you want to join us?
