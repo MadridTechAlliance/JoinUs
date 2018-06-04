@@ -4,9 +4,7 @@
 4. **Link to the logo of your community**
 5. **Link to the social networks of your community: website, github, meetup, twitter...**
 
-
-
-**Women Welcome**:
+## Women Welcome:
 
 1.  A community for welcoming more women to Tech & Startups in Campus Madrid 
 
@@ -19,8 +17,7 @@
 5. https://twitter.com/hashtag/womenwelcome
 
 
-
-**PyLadies Madrid**:
+## PyLadies Madrid:
 
 1. Local chapter of PyLadies Global, focused on helping more women become active participants and leaders in the Python open-source community.
 
@@ -31,3 +28,16 @@
 4. https://github.com/PyLadiesMadrid/art/tree/master/logos
 
 5. Twitter: https://twitter.com/PyLadiesMadrid. GitHub: https://github.com/PyLadiesMadrid/
+
+
+## NodeSchool Madrid
+
+1. Local chapter of NodeSchool. Open source workshops that teach web software skills, focused in JavaScript and Node.js
+
+2. Learn JavaScript in group, step by step, following workshops online.
+
+3. Carlos Azaustre (@carlosazaustre)
+
+4. https://github.com/nodeschool/nodeschool.github.io/blob/source/images/nodeschool-madrid.png
+
+5. Twitter: https://twitter.com/nodeschoolmad. Github: https://github.com/nodeschool/madrid
