@@ -41,3 +41,16 @@
 4. https://github.com/nodeschool/nodeschool.github.io/blob/source/images/nodeschool-madrid.png
 
 5. Twitter: https://twitter.com/nodeschoolmad. Github: https://github.com/nodeschool/madrid
+
+## R-Ladies Madrid:
+
+1. Local chapter of R-Ladies Global. We increase gender diversity in the R Community, helping women to be more involved in the global community.
+
+2. We believe we are stronger together. We would like to take this opportunity of being in a big community to share our R knowledge and learn from others.
+
+3. Leticia Martín-Fuertes (@nimbusaeta), Inés Huertas (@quierodata), Bea Hernández (@chucheria). madrid@rladies.org
+
+4. https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText.png
+
+5. Twitter: https://twitter.com/RLadiesMAD. GitHub: https://github.com/orgs/RLadiesMadrid/, https://github.com/rladies/. Meetup: https://www.meetup.com/es-ES/rladies-madrid/
+
