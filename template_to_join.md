@@ -54,3 +54,15 @@
 
 5. Twitter: https://twitter.com/RLadiesMAD. GitHub: https://github.com/orgs/RLadiesMadrid/, https://github.com/rladies/. Meetup: https://www.meetup.com/es-ES/rladies-madrid/
 
+## Google Cloud Developer Community Madrid (GCDC Madrid)
+
+1. GDGs are local groups of developers who are specifically interested in Google products and APIs. As Google Cloud Developer community we are focus in Cloud Technologies like Google Cloud Platform, Firebase, Kubernetes, TensorFlow, etc..
+
+2. Share knowledge about Cloud Technologies to the Developer Ecosystem Community.
+
+3. Alberto Gutiérrez (@aljesusg ), Carlos Azaustre (@carlosazaustre)
+
+4. https://drive.google.com/open?id=18BI-3OQENKUEqgKzIhiURDntONaO-0Zx
+
+5. Twitter: https://twitter.com/gdgcloudmadrid
+
