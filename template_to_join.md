@@ -66,3 +66,15 @@
 
 5. Twitter: https://twitter.com/gdgcloudmadrid
 
+
+## Betabeers Madrid (#bbmad)
+
+1. Betabeers Madrid, the gathering of developers who make real projects: startusps & open-source.
+
+2. We want to share knowledge, from the successes and failures of real projects in the real world.
+
+3. Pablo Rodriguez (@yondemon) madrid@betabeers.com
+
+4. https://drive.google.com/file/d/1YaFw5YQZrJjWnBPMx3feUUlbel4XXD-4/view?usp=sharing
+
+5. https://betabeers.com/bbmad @betabeersmad 
